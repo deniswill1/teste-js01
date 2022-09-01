@@ -1,2 +1,4 @@
 # teste-js01
-Exercício de JavaScript
+Exercício de JavaScript 
+
+Strings
